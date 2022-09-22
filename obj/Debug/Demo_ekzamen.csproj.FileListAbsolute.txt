@@ -1,0 +1,11 @@
+C:\Программы\Demo_ekzamen\bin\Debug\Demo_ekzamen.exe.config
+C:\Программы\Demo_ekzamen\bin\Debug\Demo_ekzamen.exe
+C:\Программы\Demo_ekzamen\bin\Debug\Demo_ekzamen.pdb
+C:\Программы\Demo_ekzamen\obj\Debug\Demo_ekzamen.csproj.AssemblyReference.cache
+C:\Программы\Demo_ekzamen\obj\Debug\Demo_ekzamen.Form1.resources
+C:\Программы\Demo_ekzamen\obj\Debug\Demo_ekzamen.Properties.Resources.resources
+C:\Программы\Demo_ekzamen\obj\Debug\Demo_ekzamen.csproj.GenerateResource.cache
+C:\Программы\Demo_ekzamen\obj\Debug\Demo_ekzamen.csproj.CoreCompileInputs.cache
+C:\Программы\Demo_ekzamen\obj\Debug\Demo_ekzamen.exe
+C:\Программы\Demo_ekzamen\obj\Debug\Demo_ekzamen.pdb
+C:\Программы\Demo_ekzamen\obj\Debug\Demo_ekzamen.layouts.Katalog.resources
